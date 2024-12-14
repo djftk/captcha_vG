@@ -3,17 +3,24 @@ CAPTCHA_C_GAN/
 CAPTCHA_C_GAN_TEST/
 CAPTCHA_D_GAN/
 CAPTCHA_D_GAN_TEST/
+
 CAPTCHA_DCGAN/
 CAPTCHA_DCGAN_he_init/
 CAPTCHA_DCGAN_split/
+
 CAPTCHA_IMAGES/
 CAPTCHA_IMAGES_GAN/
 CAPTCHA_IMAGES_SPLIT/
+
 DCGAN_SAMPLE/
 evaluate_data/
 evaluate_data_test/
+
+DCGAN_gridbatch2/
+
 images/
 sample_images_test/
+sample_images_he_init/
 ##ignore pth file
 sam_vit_h_4b8939.pth
 
